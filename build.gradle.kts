@@ -10,7 +10,7 @@ plugins {
 
 allprojects {
     group = "tachiyomi"
-    version = "1.1"
+    version = "1.0"
 }
 
 val projects = listOf(
